@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200vh; 
+    padding: 25px;
+  }
+  
+  .login {
+    width: 1300px;
+    height: 560px;
+    padding: 15px;
+    border-radius: 14px;
+    font-size: larger;
+    font-family: "Lora";
+    background-color: white; 
+    border: 2px solid black; 
+  }
+  
